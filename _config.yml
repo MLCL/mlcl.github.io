@@ -51,6 +51,17 @@ social:
   #tripadvisor:
   #amazon:
 
+team:
+  - name: Prof David Weir
+    picture: /images/team/davidw-small.jpg
+    interests: David likes research.
+  - name: Dr Jeremy Reffin
+    picture: /images/team/jeremy-small.jpeg
+  - name: Simon Wibberley
+    picture: /images/team/simon-small.png
+  - name: Andy Robertson
+    picture: /images/team/andy-small.png
+
 # Build settings
 markdown: kramdown
 #sass:

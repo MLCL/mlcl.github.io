@@ -1,0 +1,13 @@
+---
+layout: page
+title: Team
+---
+<div class="flexbox-container">
+	{% for person in site.team %}
+		<div class="portrait-div text-center">
+			<img src="{{person.picture}}" alt="{{person.name}}">
+		  <p> {{person.name}} </p>
+		  <p> {{person.interests}} </p>
+		</div>
+	{% endfor %}
+</div>
