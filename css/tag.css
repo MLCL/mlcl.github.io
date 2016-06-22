@@ -19,3 +19,5 @@
 .portrait-div>img:hover{
   opacity: 0.8;
 }
+.spaced-ul {list-style: none; padding-top: 15px;}
+
