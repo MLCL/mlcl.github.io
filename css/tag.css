@@ -12,7 +12,8 @@ http://stackoverflow.com/questions/25598728/irregular-bootstrap-column-wrapping
 */
 .portrait-div {
     height: 250px;
-    padding: 50px 15px;
+    padding: 40px 15px;
+    text-align: center;
 }
 
 .portrait-div>img{

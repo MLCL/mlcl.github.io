@@ -7,7 +7,7 @@ description: |
   Text Analysis Group at the University of Sussex
 owner: TAG Lab
 first_published: 2016 # if migrating another site, the year of your first publish
-email: d.j.weir@sussex.ac.uk
+email: D.J.Weir@sussex.ac.uk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://taglaboratory.org" # the base hostname & protocol for your site
 social:

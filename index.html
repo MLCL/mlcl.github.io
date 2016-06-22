@@ -8,7 +8,8 @@ layout: landing
 								<h2>{{ site.title }}</h2>
 								<p>{{ site.description | markdownify }}</p>
 								<ul class="actions">
-									<li><a href="#" class="button special">Contact Us</a></li>
+									<li><a href="mailto:{{site.email}}" target="_top" class="button special">Contact Us</a></li>
+								</p>
 								</ul>
 							</div>
 						</div>
@@ -27,9 +28,9 @@ layout: landing
 								documents, social media and other communications, working with business, government and others.</p>
 							</header>
 							<ul class="icons major">
-								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+								<li><span class="icon fa-desktop major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-code major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fa-laptop major style3"><span class="label">Dolor</span></span></li>
 							</ul>
 						</div>
 					</section>
@@ -75,7 +76,7 @@ layout: landing
 									<h3>Method52</h3>
 									<p>Method52 is a software platform for the analysis of unstructured text that we co-develop and use to undertake much of our applied research. It is also deployed commercially.</p>
 								</li>
-								<li class="icon fa-paper-plane-o">
+								<li class="icon fa-code">
 									<h3>Sussex Humanities Lab</h3>
 									<p>Members of the TAG Laboratory are part of the Sussex Humanities Lab, which is dedicated to developing and expanding research into how digital technologies are shaping our culture and society.</p>
 								</li>
@@ -83,7 +84,7 @@ layout: landing
 									<h3>CASM Consulting LLP</h3>
 									<p>Much of our applied consulting work is conducted through our associated consulting practice, CASM Consulting LLP. In addition to providing research and consulting services, the company develops commercial-grade technology in Natural Language Processing (NLP) and social media analysis.</p>
 								</li>
-								<li class="icon fa-code">
+								<li class="icon fa-laptop">
 									<h3>APTs in Distributional Semantics</h3>
 									<p>In our research we have developed a new approach for composing word meanings into phrase and sentence meanings. A word, phrase or sentence meaning can be represented as a single data structure called an APT; its meaning is then interpretable from the perspective of each word in the phrase or sentence.</p>
 								</li>
@@ -91,11 +92,11 @@ layout: landing
 									<h3>Policing Hate Crime</h3>
 									<p>This project explores ways to improve our understanding of hate crime and other community-related incidents. It is a collaborative project with the Metropolitan Police Service, Palantir Technologies, Demos and CASM Consulting, and is funded by the Police Knowledge Fund.</p>
 								</li>
-								<li class="icon fa-flag-o">
+								<li class="icon fa-paper-plane-o">
 									<h3>Near You Now Demonstrator</h3>
 									<p>The Near You Now Demonstrator enables users to access local news stories on mobile devices based on relevance at their precise location. This was a joint research project with Near You Now Ltd, Archant Community Media Ltd, KentishTowner and Streetlife.com, and was funded by Innovate UK.</p>
 								</li>
-								<li class="icon fa-flag-o">
+								<li class="icon fa-code">
 									<h3>In the Hands of the Analyst</h3>
 									<p>This project explored the approaches required to undertake attitudinal analysis using social media data in a principled fashion, taking into account issues around representitivity, the limits of current technology and ethical considerations. This was a joint research project with Ipsos MORI, Demos, and CASM Consulting LLP, and was funded by the Innovate UK, the ESRC, the EPSRC and DSTL. </p>
 								</li>
@@ -109,14 +110,14 @@ layout: landing
 							<header>
 								<h2>Contact Us</h2>
 								<p>Please get in contact with us if you would like to hear more about our work or you have a challenge in the realm of text analysis that you would like us to tackle.<br /><br />
-								email: davidw@sussex.ac.uk<br /><br />
+								email: {{site.email}} <br /><br />
 								Tel: +44 (0)1273 678993</p>
 							</header>
 							<ul class="actions vertical">
-								<li><a href="#" class="button fit special">Send an email</a></li>
+								<li><a href="mailto:{{site.email}}" target="_top" class="button fit special">Send an email</a></li>
 								<li><a href="#" class="button fit">CASM website</a></li>
 								<li><a href="#" class="button fit">Method52 site</a></li>
-								<li><a href="#" class="button fit">CASM Consult</a></li>
+								<li><a href="http://www.casmconsulting.co.uk" class="button fit">CASM Consult</a></li>
 							</ul>
 						</div>
 					</section>
