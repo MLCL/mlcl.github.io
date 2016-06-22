@@ -61,6 +61,17 @@ team:
     picture: /images/team/simon-small.png
   - name: Andy Robertson
     picture: /images/team/andy-small.png
+  - name: Dr Miroslav Batchkarov
+  - name: Jack Pay
+  - name: Matti Lyra
+  - name: Joe Taylor
+  - name: Justin Crow
+  - name: Thomas Kober
+  - name: Roland Davis
+  - name: David Spence
+  - name: Julie Weeds
+  - name: Chris Inskip
+  - name: Tom Ball
 
 # Build settings
 markdown: kramdown
