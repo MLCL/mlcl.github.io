@@ -5,7 +5,7 @@ title: Team
 <div class="flexbox-container">
 	{% assign members = site.team | sort: 'name'%}
 	{% for person in members %}
-		<div class="portrait-div text-center">
+		<div class="portrait-div">
 			{% if person.picture %}
 				{% assign picUrl = person.picture %}
 			{% else %}
