@@ -35,7 +35,7 @@ http://www.w3schools.com/css/css_tooltip.asp
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: 350px;
     background-color: black;
     color: #fff;
     text-align: center;
@@ -45,7 +45,7 @@ http://www.w3schools.com/css/css_tooltip.asp
     z-index: 1;
     top: 150%;
     left: 50%;
-    margin-left: -60px;
+    margin-left: -175px;
 }
 
 .tooltip .tooltiptext::after {
