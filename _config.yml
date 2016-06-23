@@ -82,6 +82,7 @@ team:
   - name: Chris Inskip
     picture: /images/team/chris-small.jpg
   - name: Tom Ball
+    picture: /images/team/tom-small.jpg
 
 # Build settings
 markdown: kramdown
