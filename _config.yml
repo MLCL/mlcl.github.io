@@ -63,11 +63,16 @@ team:
     picture: /images/team/andy-small.png
   - name: Dr Miroslav Batchkarov
   - name: Jack Pay
+    picture: /images/team/jack-small.jpg
   - name: Matti Lyra
   - name: Joe Taylor
+    picture: /images/team/joe-small.jpg
   - name: Justin Crow
+    picture: /images/team/justin-small.jpg
   - name: Thomas Kober
+    picture: /images/team/thomask-small.jpg
   - name: Roland Davis
+    picture: /images/team/roland-small.jpg
   - name: David Spence
   - name: Julie Weeds
   - name: Chris Inskip
