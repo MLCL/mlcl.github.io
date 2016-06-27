@@ -57,12 +57,14 @@ team:
     interests: I co-direct the Laboratory. My research interests include mildly context-sensitive grammar formalisms, syntactic parsing and lexical semantics.
   - name: Jeremy Reffin
     picture: /images/team/jeremy-small.jpeg
+    interests: I co-direct the Laboratory. My current research interests are in applying NLP technology to solving real-world problems and in developing the APT model of language.
   - name: Simon Wibberley
     picture: /images/team/simon-small.png
   - name: Andy Robertson
     picture: /images/team/andy-small.png
   - name: Miroslav Batchkarov
     picture: /images/team/miro-small.png
+    interests: My research focuses on distributional models of semantics. I am also involved in several projects that apply NLP methods to commercial problems.
   - name: Jack Pay
     picture: /images/team/jack-small.jpg
   - name: Matti Lyra
