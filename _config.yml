@@ -62,6 +62,7 @@ team:
     picture: /images/team/simon-small.png
   - name: Andy Robertson
     picture: /images/team/andy-small.png
+    interests: My research interests include the application of dependency relations and other structural features to active learning, and methods of automated feature discovery.
   - name: Miroslav Batchkarov
     picture: /images/team/miro-small.png
     interests: My research focuses on distributional models of semantics. I am also involved in several projects that apply NLP methods to commercial problems.
