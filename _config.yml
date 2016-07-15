@@ -71,6 +71,7 @@ team:
     interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
   - name: Matti Lyra
     picture: /images/team/matti-small.jpg
+    interests: I am interested in using NLP techniques to solve business problems and drive product development. My research efforts mainly focus on supervised and unsupervised methods for text classification and ensemble methods.
   - name: Joe Taylor
     picture: /images/team/joe-small.jpg
   - name: Justin Crow
