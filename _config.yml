@@ -77,6 +77,7 @@ team:
     picture: /images/team/justin-small.jpg
   - name: Thomas Kober
     picture: /images/team/thomask-small.jpg
+    interests: My primary research interest is compositional distributional semantics. I am furthermore interested in neural network approaches for natural language problems, as well as in active learning, semi-supervised learning and unsupervised learning.
   - name: Roland Davis
     picture: /images/team/roland-small.jpg
     interests: Distributional semantics, language modelling and measurement of plausibility.
