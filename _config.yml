@@ -68,6 +68,7 @@ team:
     interests: My research focuses on distributional models of semantics. I am also involved in several projects that apply NLP methods to commercial problems.
   - name: Jack Pay
     picture: /images/team/jack-small.jpg
+    interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
   - name: Matti Lyra
     picture: /images/team/matti-small.jpg
   - name: Joe Taylor
@@ -83,6 +84,7 @@ team:
     picture: /images/team/davidsp-small.jpg
   - name: Julie Weeds
     picture: /images/team/julie-small.jpg
+    interests: My main research interest is lexical semantics.  In particular, I am interested in compositional distributional semantics and linguistic variation.  I am also a member of the Sussex Humanities Lab, with an interest in applying natural language processing techniques to problems in humanities.
   - name: Chris Inskip
     picture: /images/team/chris-small.jpg
   - name: Tom Ball
