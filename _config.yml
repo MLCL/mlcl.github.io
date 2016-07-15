@@ -60,6 +60,7 @@ team:
     interests: I co-direct the Laboratory. My current research interests are in applying NLP technology to solving real-world problems and in developing the APT model of language.
   - name: Simon Wibberley
     picture: /images/team/simon-small.png
+    interest: My primary research area is applied computational social science - I'm mainly interested in how analysts and researchers can be empowered by computational approaches. I also am the lead technical architect behind Method52.
   - name: Andy Robertson
     picture: /images/team/andy-small.png
     interests: My research interests include the application of dependency relations and other structural features to active learning, and methods of automated feature discovery.
