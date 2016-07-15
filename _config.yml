@@ -78,6 +78,7 @@ team:
     picture: /images/team/thomask-small.jpg
   - name: Roland Davis
     picture: /images/team/roland-small.jpg
+    interests: Distributional semantics, language modelling and measurement of plausibility.
   - name: David Spence
     picture: /images/team/davidsp-small.jpg
   - name: Julie Weeds
