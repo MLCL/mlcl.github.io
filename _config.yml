@@ -90,6 +90,7 @@ team:
     interests: My main research interest is lexical semantics.  In particular, I am interested in compositional distributional semantics and linguistic variation.  I am also a member of the Sussex Humanities Lab, with an interest in applying natural language processing techniques to problems in humanities.
   - name: Chris Inskip
     picture: /images/team/chris-small.jpg
+    interests: My current research focusses on the application of machine learning techniques to infer latent user demographic attributes on social media.
   - name: Tom Ball
     picture: /images/team/tom-small.jpg
 
