@@ -64,9 +64,6 @@ team:
   - name: Andy Robertson
     picture: /images/team/andy-small.png
     interests: My research interests include the application of dependency relations and other structural features to active learning, and methods of automated feature discovery.
-  - name: Miroslav Batchkarov
-    picture: /images/team/miro-small.png
-    interests: My research focuses on distributional models of semantics. I am also involved in several projects that apply NLP methods to commercial problems.
   - name: Jack Pay
     picture: /images/team/jack-small.jpg
     interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
