@@ -85,7 +85,7 @@ team:
     interests: My main area of research is quantification and in particular whether quantification at a sub-class level can give better performance.
   - name: Julie Weeds
     picture: /images/team/julie-small.jpg
-    interests: My main research interest is lexical semantics.  In particular, I am interested in compositional distributional semantics and linguistic variation.  I am also a member of the Sussex Humanities Lab, with an interest in applying natural language processing techniques to problems in humanities.
+    interests: My main research interest is lexical semantics.  In particular, I am interested in compositional distributional semantics and linguistic variation.  As a former member of the Sussex Humanities Lab and a lecturer on the Data Science MSc, I am also interested in data analysis, computational modelling and applying state-of-the-art NLP techniques to extracting knowledge from unstructured data.
   - name: Chris Inskip
     picture: /images/team/chris-small.jpg
     interests: My current research focusses on the application of machine learning techniques to infer latent user demographic attributes on social media.
