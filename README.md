@@ -11,3 +11,4 @@ Find the original non-jekyll theme at: http://html5up.net/
  - Run `jekyll serve --watch`
  - Browse `http://127.0.0.1:4000/`
 
+Edit the top-level files not the ones in _site folder
