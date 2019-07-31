@@ -12,3 +12,4 @@ Find the original non-jekyll theme at: http://html5up.net/
  - Browse `http://127.0.0.1:4000/`
 
 Edit the top-level files not the ones in _site folder
+Edit _config.yml to change people information

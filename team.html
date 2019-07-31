@@ -3,6 +3,10 @@ layout: page
 title: Team
 ---
 <div class="flexbox-container">
+	<header class="major">
+		<h2>  Members</h2>
+	</header>
+	<p></p>
 	{% assign members = site.team | sort: 'name'%}
 	{% for person in members %}
 		<div class="portrait-div">
@@ -21,3 +25,24 @@ title: Team
 		</div>
 	{% endfor %}
 </div>
+<div class="flexbox-container">
+	<h2>  Former Members</h2>
+	{% assign former_members = site.former_team | sort: 'name'%}
+	{% for person in former_members %}
+		<div class="portrait-div">
+			{% if person.picture %}
+				{% assign picUrl = person.picture %}
+			{% else %}
+				{% assign picUrl = '/images/team/robot-outline-hi.png' %}
+			{% endif %}
+			
+			<img src="{{picUrl}}" alt="{{person.name}}">
+			{% if person.interests %}
+				<p class=tooltip> {{person.name}} <span class="tooltiptext"> {{person.interests}} </span> </p>
+			{% else %}
+				<p> {{person.name}}</p>
+			{% endif %}
+		</div>
+	{% endfor %}
+</div>
+
