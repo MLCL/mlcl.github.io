@@ -89,18 +89,14 @@ former_team:
     picture: /images/team/tom-small.jpg
   - name: Roland Davis
     picture: /images/team/roland-small.jpg
-    interests: Distributional semantics, language modelling and measurement of plausibility.
   - name: Matti Lyra
     picture: /images/team/matti-small.jpg
-    interests: I am interested in using NLP techniques to solve business problems and drive product development. My research efforts mainly focus on supervised and unsupervised methods for text classification and ensemble methods.
   - name: Thomas Kober
     picture: /images/team/thomask-small.jpg
   - name: David Spence
     picture: /images/team/davidsp-small.jpg
-    interests: My main area of research is quantification and in particular whether quantification at a sub-class level can give better performance.
   - name: Joe Taylor
     picture: /images/team/joe-small.jpg
-    interests: My primary research interest is compositional distributional semantics. I am furthermore interested in neural network approaches for natural language problems, as well as in active learning, semi-supervised learning and unsupervised learning.
 
 # Build settings
 markdown: kramdown
