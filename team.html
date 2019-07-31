@@ -2,11 +2,9 @@
 layout: page
 title: Team
 ---
+<h2>Members</h2>
 <div class="flexbox-container">
-	<header class="major">
-		<h2>  Members</h2>
-	</header>
-	<p></p>
+
 	{% assign members = site.team | sort: 'name'%}
 	{% for person in members %}
 		<div class="portrait-div">
@@ -25,8 +23,9 @@ title: Team
 		</div>
 	{% endfor %}
 </div>
+<h2>Former Members</h2>
 <div class="flexbox-container">
-	<h2>  Former Members</h2>
+	
 	{% assign former_members = site.former_team | sort: 'name'%}
 	{% for person in former_members %}
 		<div class="portrait-div">
