@@ -72,9 +72,9 @@ team:
   - name: Jeremy Reffin
     picture: /images/team/jeremy-small.jpeg
     interests: I co-direct the Laboratory. My current research interests are in applying NLP technology to solving real-world problems and in developing the APT model of language.
-  - name: Andy Robertson
+  - name: Andrew D. Robertson
     picture: /images/team/andy-small.png
-    interests: My research interests include the application of dependency relations and other structural features to active learning, and methods of automated feature discovery.
+    interests: My research areas include methods for automatic key-phrase extraction, automated dynamic querying of social media,  and applying deep learning models to summarisation and classification.
   - name: Julie Weeds
     picture: /images/team/julie-small.jpg
     interests: My main research interest is lexical semantics.  In particular, I am interested in compositional distributional semantics and linguistic variation.  As a former member of the Sussex Humanities Lab and a lecturer on the Data Science MSc, I am also interested in data analysis, computational modelling and applying state-of-the-art NLP techniques to extracting knowledge from unstructured data.
