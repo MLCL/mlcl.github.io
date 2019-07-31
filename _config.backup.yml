@@ -1,0 +1,96 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: TAG Laboratory
+description: |
+  Text Analysis Group at the University of Sussex
+owner: TAG Lab
+first_published: 2016 # if migrating another site, the year of your first publish
+email: D.J.Weir@sussex.ac.uk
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://taglaboratory.org" # the base hostname & protocol for your site
+social:
+  # twitter: https://twitter.com/<username>
+  github: https://github.com/MLCL
+  # linkedin-square: https://linkedin.com/in/<username>
+  # facebook-official: https://facebook.com/<username>
+  # google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+team:
+  - name: David Weir
+    picture: /images/team/davidw-small.jpg
+    interests: I co-direct the Laboratory. My research interests include mildly context-sensitive grammar formalisms, syntactic parsing and lexical semantics.
+  - name: Jeremy Reffin
+    picture: /images/team/jeremy-small.jpeg
+    interests: I co-direct the Laboratory. My current research interests are in applying NLP technology to solving real-world problems and in developing the APT model of language.
+  - name: Simon Wibberley
+    picture: /images/team/simon-small.png
+    interests: My primary research area is applied computational social science - I'm mainly interested in how analysts and researchers can be empowered by computational approaches. I also am the lead technical architect behind Method52.
+  - name: Andy Robertson
+    picture: /images/team/andy-small.png
+    interests: My research interests include the application of dependency relations and other structural features to active learning, and methods of automated feature discovery.
+  - name: Jack Pay
+    picture: /images/team/jack-small.jpg
+    interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
+  - name: Matti Lyra
+    picture: /images/team/matti-small.jpg
+    interests: I am interested in using NLP techniques to solve business problems and drive product development. My research efforts mainly focus on supervised and unsupervised methods for text classification and ensemble methods.
+  - name: Joe Taylor
+    picture: /images/team/joe-small.jpg
+  - name: Justin Crow
+    picture: /images/team/justin-small.jpg
+  - name: Thomas Kober
+    picture: /images/team/thomask-small.jpg
+    interests: My primary research interest is compositional distributional semantics. I am furthermore interested in neural network approaches for natural language problems, as well as in active learning, semi-supervised learning and unsupervised learning.
+  - name: Roland Davis
+    picture: /images/team/roland-small.jpg
+    interests: Distributional semantics, language modelling and measurement of plausibility.
+  - name: David Spence
+    picture: /images/team/davidsp-small.jpg
+    interests: My main area of research is quantification and in particular whether quantification at a sub-class level can give better performance.
+  - name: Julie Weeds
+    picture: /images/team/julie-small.jpg
+    interests: My main research interest is lexical semantics.  In particular, I am interested in compositional distributional semantics and linguistic variation.  As a former member of the Sussex Humanities Lab and a lecturer on the Data Science MSc, I am also interested in data analysis, computational modelling and applying state-of-the-art NLP techniques to extracting knowledge from unstructured data.
+  - name: Chris Inskip
+    picture: /images/team/chris-small.jpg
+    interests: My current research focusses on the application of machine learning techniques to infer latent user demographic attributes on social media.
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
