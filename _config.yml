@@ -64,6 +64,7 @@ team:
     interests: My primary research interest is the application of Natural Language Processing techniques for Automated Claim Identification and Fact Checking.
   - name: Justin Crow
     picture: /images/team/justin-small.jpg
+    interests: I'm a PhD student and lecturer at the university. My primary research interest is in the use of social media for situational awareness, particularly automatic event detection and identification of eyewitnesses. Currently focussed on the improvement of methodologies for rapdily collecting high quality datasets in the immediate aftermath of local events.
   - name: Chris Inskip
     picture: /images/team/chris-small.jpg
     interests: My current research focusses on the application of machine learning techniques to infer latent user demographic attributes on social media.
