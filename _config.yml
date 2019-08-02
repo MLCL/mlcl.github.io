@@ -87,6 +87,8 @@ team:
     picture: /images/team/simon-small.png
     interests: My primary research area is applied computational social science - I'm mainly interested in how analysts and researchers can be empowered by computational approaches. I also am the lead technical architect behind Method52.
 former_team:
+  - name: David Sheldrick
+    picture: /images/team/davidsh-small.jpg
   - name: Hamish Morgan
     picture: /images/team/hamish-small.jpg
   - name: Tom Ball
