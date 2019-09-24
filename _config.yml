@@ -75,6 +75,9 @@ team:
   - name: Jack Pay
     picture: /images/team/jack-small.jpg
     interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
+  - name: Qiwei Peng
+    picture: /images/team/QiweiPeng_small.png
+    interests: My primary research interest is compositional semantics and its application on tasks like machine translation and summarisation.
   - name: Jeremy Reffin
     picture: /images/team/jeremy-small.jpeg
     interests: I co-direct the Laboratory. My current research interests are in applying NLP technology to solving real-world problems and in developing the APT model of language.
