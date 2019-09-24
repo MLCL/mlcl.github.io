@@ -53,7 +53,11 @@ social:
 
 team:
   - name: Colin Ashby
+    picture: /images/team/colin-small.jpg
+    interests: I am a PhD student focussing on Web Information Extraction and the design of downstream applications.
   - name: Dave Banks
+    picture: /images/team/dave-small.jpg
+    interests: I primarily work with the Sussex Humanities Lab; my research interests include internet history and culture, UX and visualization on the web, linguistics and social science.
   - name: Lorenzo Bertolini
     picture: /images/team/lorenzo-small.jpg
     interests: My primary research area is compositional distributional semantics. Furthermore, I am interested in the interaction between composition and entailment.
