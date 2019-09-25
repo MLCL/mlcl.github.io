@@ -72,6 +72,9 @@ team:
   - name: Chris Inskip
     picture: /images/team/chris-small.jpg
     interests: My current research focusses on the application of machine learning techniques to infer latent user demographic attributes on social media.
+  - name: Justina Li
+    picture: /images/team/justina-small.jpg
+    interests: I am a PhD student focusing on Machine Translation. My primary research interest is investigating how different the spaces are for different languages. Potentially, develop a way to transform from one language space to another.
   - name: Jack Pay
     picture: /images/team/jack-small.jpg
     interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
