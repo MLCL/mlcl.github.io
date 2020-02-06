@@ -96,6 +96,9 @@ team:
   - name: Simon Wibberley
     picture: /images/team/simon-small.png
     interests: My primary research area is applied computational social science - I'm mainly interested in how analysts and researchers can be empowered by computational approaches. I also am the lead technical architect behind Method52.
+  - name: Ahmed Younes
+    picture: /images/team/ahmed-small.png
+    interests: My main research interest is in the Arabic NLP. I focus on modeling the full range of Arabic characteristics to exploit them in different tasks. I am also interested in using embeddings to encode the language characteristics into a representation that can be analyzed by neural networks.
 former_team:
   - name: Daoud Clarke
     picture: /images/team/daoud-small.jpg
