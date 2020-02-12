@@ -84,6 +84,9 @@ team:
   - name: Jeremy Reffin
     picture: /images/team/jeremy-small.jpeg
     interests: I co-direct the Laboratory. My current research interests are in applying NLP technology to solving real-world problems and in developing the APT model of language.
+  - name: Shaun Ring
+    picture: /images/team/shaun-small.jpg
+    interests:  I am a PhD student focussing on document classification. I am investigating the performance of different classification methods across a variety of practical scenarios in order to be able to create a tool that can be tailored to suite a variety of situations.
   - name: Andrew D. Robertson
     picture: /images/team/andy-small.png
     interests: My research areas include methods for automatic key-phrase extraction, automated dynamic querying of social media,  and applying deep learning models to summarisation and classification.
