@@ -75,6 +75,9 @@ team:
   - name: Justina Li
     picture: /images/team/justina-small.jpg
     interests: I am a PhD student focusing on Machine Translation. My primary research interest is investigating how different the spaces are for different languages. Potentially, develop a way to transform from one language space to another.
+  - name: Mary Adel Mansour
+    picture: /images/team/mary-small.jpg
+    interests: I am a PhD student and will be working on data analysis of Arabic social media interaction in order to investigate the expression and construction of identities.
   - name: Jack Pay
     picture: /images/team/jack-small.jpg
     interests: I am a PhD student focusing on pre-processing techniques for use in topic modelling. I am also a member of the Sussex Humanities Laboratory, involved in developing technology for large scale data capture and analysis.
