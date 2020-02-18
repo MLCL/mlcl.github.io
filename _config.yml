@@ -63,6 +63,7 @@ team:
     interests: My primary research area is compositional distributional semantics. Furthermore, I am interested in the interaction between composition and entailment.
   - name: Alex Butterworth
     picture: /images/team/alex-small.jpg
+    interests: My research concerns the representation of narrative accounts of past and future - textual, conceptual and visual. I apply NLP methods to explore the particular affordances of humanistic data, and design novel interfaces to support that process.
   - name: Nestor Prieto-Chavana
     picture: /images/team/nestor-small.jpg
     interests: My primary research interest is the application of Natural Language Processing techniques for Automated Claim Identification and Fact Checking.
