@@ -107,6 +107,8 @@ team:
     picture: /images/team/ahmed-small.png
     interests: My main research interest is in Arabic NLP. I focus on modeling Arabic language characteristics to exploit them in different tasks.
 former_team: 
+  - name: Miro Batchkarov
+    picture: /images/team/miro-small.png
   - name: Daoud Clarke
     picture: /images/team/daoud-small.jpg
   - name: David Sheldrick
